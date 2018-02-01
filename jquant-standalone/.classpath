@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry including="**/*.java" kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="var" path="M2_REPO/junit/junit/4.4/junit-4.4.jar" sourcepath="M2_REPO/junit/junit/4.4/junit-4.4-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/specs/specs/1.2.5/specs-1.2.5.jar" sourcepath="M2_REPO/org/specs/specs/1.2.5/specs-1.2.5-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/scalatest/scalatest/0.9.1/scalatest-0.9.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/scalacheck/scalacheck/1.2/scalacheck-1.2.jar" sourcepath="M2_REPO/org/scalacheck/scalacheck/1.2/scalacheck-1.2-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/jmock/jmock/2.4.0/jmock-2.4.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar" sourcepath="M2_REPO/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/hamcrest/hamcrest-library/1.1/hamcrest-library-1.1.jar" sourcepath="M2_REPO/org/hamcrest/hamcrest-library/1.1/hamcrest-library-1.1-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/oracle/ojdbc6/11.2.0.4.0-atlassian-hosted/ojdbc6-11.2.0.4.0-atlassian-hosted.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/commons/commons-math/2.2/commons-math-2.2.jar" sourcepath="M2_REPO/org/apache/commons/commons-math/2.2/commons-math-2.2-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/joda-time/joda-time/2.3/joda-time-2.3.jar" sourcepath="M2_REPO/joda-time/joda-time/2.3/joda-time-2.3-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar" sourcepath="M2_REPO/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/httpcomponents/httpclient/4.3.2/httpclient-4.3.2.jar" sourcepath="M2_REPO/org/apache/httpcomponents/httpclient/4.3.2/httpclient-4.3.2-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar" sourcepath="M2_REPO/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/commons-codec/commons-codec/1.6/commons-codec-1.6.jar" sourcepath="M2_REPO/commons-codec/commons-codec/1.6/commons-codec-1.6-sources.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/jquant-core"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/jquant-finam"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/jquant-jdbc"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/jquant-yahoo"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
